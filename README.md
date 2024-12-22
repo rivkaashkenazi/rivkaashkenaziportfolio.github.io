@@ -11,3 +11,6 @@ None yet ;)
 [Compiled Project](files/projects/cars_analysis_copy.pdf)
 - Project #2 | call-center-analysis |
 [Compiled Project](files/projects/call_center_analysis.pdf)
+
+
+###!!! MORE TO COME, PORTFOLIO UNDER CONSTRUCTION !!!
