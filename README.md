@@ -7,5 +7,7 @@ Degree in Data Science at Saint Peters University
 None yet
 
 ### Projects
-    - Project #1
-    - Project #2
+- Project #1 | car-company-analysis
+[Compiled Project]()
+- Project #2 | call-center-analysis
+[Compiled Project]()
