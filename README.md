@@ -8,7 +8,7 @@ None yet ;)
 
 ### Projects
 - Project #1 | car-company-analysis |
-[Compiled Project](files/projects/cars_analysis_copy.pdf)
+[Compiled Project](files/projects/cars_analysis_final.pdf)
 - Project #2 | call-center-analysis |
 [Compiled Project](files/projects/call_center_analysis.pdf)
 
